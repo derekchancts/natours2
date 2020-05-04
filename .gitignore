@@ -1,0 +1,6 @@
+node_modules/
+*.env
+backup/
+backup1/
+backup2/
+.cache/
